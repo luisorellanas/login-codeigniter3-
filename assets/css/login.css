@@ -1,0 +1,25 @@
+body{
+	background-color: #D2D6DE;
+}
+.bg-blue {
+    background-color: #D2D6DE;
+}
+
+.ingreso{
+	margin-top: 10%;
+	background-color: #fff;
+	padding:  10px 30px 30px 30px;
+	
+}
+.ingreso h1 {
+	text-align: center; 
+
+
+}
+
+@media (max-width: 768px){
+	.ingreso h1{
+		font-size: 20px
+	}
+}
+
